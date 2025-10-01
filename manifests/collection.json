@@ -1,0 +1,13 @@
+{
+  "id" : "https://jadummer.github.io/lewis_e_86/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in jadummer/lewis_e_86 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://jadummer.github.io/lewis_e_86/manifests/manifest2.json",
+    "label" : "Free Library of Philadelphia, Lewis E 86, Book of Hours"
+  } ]
+}
