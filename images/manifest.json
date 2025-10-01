@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://jadummer.github.io/lewis_e_86/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in jadummer/lewis_e_86 project"
+        ]
+    },
+    "items": []
+}
