@@ -1,0 +1,106 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://jadummer.github.io/lewis_e_86/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Free Library of Philadelphia, Lewis E 86, Book of Hours",
+  "metadata" : [ {
+    "label" : "Title",
+    "value" : "Book of Hours, Use of Bourges"
+  }, {
+    "label" : "Date",
+    "value" : "circa 1500"
+  }, {
+    "label" : "Script",
+    "value" : "Bâtarde"
+  } ],
+  "description" : [ {
+    "@value" : "This richly decorated Book of Hours of the Use of Bourges was produced around the year 1500. The calendar, in French (fols. 1r-12v), includes several saints local to Bourges highlighted in gold, and is accompanied by border vignettes of the zodiacal signs and labors of the month, each enclosed within a golden aedicula. The Book of Hours includes: the Gospel Lessons; the Passion according to John; the Hours of the Virgin of the Use of Bourges followed by the Hours of the Cross and Hours of the Holy Spirit; the Penitential Psalms, Litany, and Prayers; the Office of the Dead; and Suffrages including a prayer to Saint Symphorien of Auxerre (fol. 148r). The Gospel Lessons are introduced with a large miniature of Saint John on Patmos (fol. 13r) with two secondary scenes in vignettes below, and include further small miniatures for Luke, Matthew, and Mark, inset within the subsequent text; the Obsecro te prayer (fols. 19v-23r), introduced with a small inset miniature of the Virgin and Child with Angels, follows the Gospel Lessons directly. The remaining large miniatures at the beginning of each textual section are enclosed within elaborate architectural frames painted in shell gold, which include canopied niches on the outer margins enclosing figures in demi-grisaille, and, apart from the two full-page Annunciation miniatures forming the double-page opening for the Hours of the Virgin (fols. 34v-35r), include lower-level vignettes related to the main scene but separated from it by the text block. The miniature of David and Bathsheba (fol. 96r), which introduces the Penitential Psalms, includes a landscape view of the famous castle of Mehun-sur-Yèvre, made famous by Jean, Duc de Berry. Pages containing the miniature for the Hours of the Holy Spirit and the miniature for the Suffrage to Saint Margaret are missing. The miniatures are by an unidentified artist likely active in Bourges, and associated with Jacquelin de Montluçon, the Master of the Moneypenny Breviary, and the Master of Spencer 6. The verso of the final folio (fol. 153v) contains an elaborate heraldic achievement, likely dating from soon after the production of the manuscript, with arms (azure, a fleur-de-lys or, party per pale azure, an eagle gules) that have been attributed, probably incorrectly, to the Haland de Saint Hermine de Vattier family.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution" : "Provided by the Free Library of Philadelphia",
+  "viewingHint" : "paged",
+  "sequences" : [ {
+    "@id" : "http://d7b5a101-1198-4b3b-bb05-85630a0fbb29",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://de293c55-dc28-414d-aaa8-263db04aacad",
+      "@type" : "sc:Canvas",
+      "label" : "fol. 2r",
+      "height" : 1800,
+      "width" : 1229,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c89d9c06-7b2d-46d8-b0da-d63efc9b7a7a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/iiif/6564-0010-web/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/iiif/6564-0010-web",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 2212200,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1800,
+          "width" : 1229
+        },
+        "on" : "http://de293c55-dc28-414d-aaa8-263db04aacad"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ab1a97fa-9be0-484d-9c3b-a0ed16076d79",
+      "@type" : "sc:Canvas",
+      "label" : "fol. 2v",
+      "height" : 1800,
+      "width" : 1229,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8d361c30-55bb-48e2-8188-03434d6e8e22",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/iiif/6564-0011-web/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/iiif/6564-0011-web",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 2212200,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1800,
+          "width" : 1229
+        },
+        "on" : "http://ab1a97fa-9be0-484d-9c3b-a0ed16076d79"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "http://de293c55-dc28-414d-aaa8-263db04aacad" ]
+  } ]
+}
