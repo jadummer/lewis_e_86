@@ -1,0 +1,116 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://jadummer.github.io/lewis_e_86/annotations/page0.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:5500/page0.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Scrofula"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/00lkk98nzk47d-mg9uw5gm#xywh=40,166,186,123"
+  }, {
+    "id" : "http://localhost:5500/page0.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Jaundice"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/00lkk98nzk47d-mg9uw5gm#xywh=27,282,205,84"
+  }, {
+    "id" : "http://localhost:5500/page0.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Measles"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/00lkk98nzk47d-mg9uw5gm#xywh=31,349,183,75"
+  }, {
+    "id" : "http://localhost:5500/page0.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "eadache"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/00lkk98nzk47d-mg9uw5gm#xywh=24,400,202,75"
+  }, {
+    "id" : "http://localhost:5500/page0.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "On Scurvy"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/00lkk98nzk47d-mg9uw5gm#xywh=292,331,339,155"
+  }, {
+    "id" : "http://localhost:5500/page0.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "as it appeared in the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/00lkk98nzk47d-mg9uw5gm#xywh=93,456,704,90"
+  }, {
+    "id" : "http://localhost:5500/page0.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Philadelphia Prison in"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/00lkk98nzk47d-mg9uw5gm#xywh=102,547,771,83"
+  }, {
+    "id" : "http://localhost:5500/page0.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the Spring of 1806"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/00lkk98nzk47d-mg9uw5gm#xywh=108,624,681,113"
+  }, {
+    "id" : "http://localhost:5500/page0.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "by Daniel Dobbins"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/00lkk98nzk47d-mg9uw5gm#xywh=259,975,539,106"
+  }, {
+    "id" : "http://localhost:5500/page0.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of Pennsylvania—"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/00lkk98nzk47d-mg9uw5gm#xywh=234,1089,572,103"
+  }, {
+    "id" : "http://localhost:5500/page0.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : ""
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/00lkk98nzk47d-mg9uw5gm#xywh=328,769,195,56"
+  } ]
+}
